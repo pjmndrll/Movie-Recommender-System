@@ -1,6 +1,6 @@
 # Movie-Recommender-System
 
-This repository contains a movie recommender system implemented in Python using Surprise, a scikit for building and analyzing recommender systems, along with Pandas for data manipulation.
+This repository contains a movie recommender system implemented in Python using [Surprise](https://surpriselib.com/), a scikit for building and analyzing recommender systems, along with Pandas for data manipulation.
 
 ## Features
 
